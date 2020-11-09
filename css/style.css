@@ -52,6 +52,12 @@ pre {
   padding: 10px;
 }
 
+/* Hidden netlify */
+.hidden {
+  visibility: hidden;
+  height: 0;
+}
+
 /* Navbar */
 .navbar ul {
   display: flex;
