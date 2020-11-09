@@ -5,7 +5,12 @@ To run the project
 ⌘L ⌘0
 ```
 
-and go to the server ip adress
+in developpment
 ```bash
 http://127.0.0.1:5500/index.html
+```
+
+in production on netlify
+```
+https://reverent-clarke-4e9fda.netlify.app
 ```
